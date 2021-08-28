@@ -6,9 +6,9 @@ Hi! My name is Josh Leubecher-Robinson. Thank You for taking the time to view my
 
 ## About Me
 
-- 🔭 I’m currently working on a private Status Page, built using Angular and Next.JS, with Docker as a deployment method.
+- 🔭 I’m currently working on a private Status Page, built using Angular and Nest.JS, with Docker as a deployment method.
 
-- 🌱 I’m currently learning Docker, Next.JS, Angular and more.
+- 🌱 I’m currently learning Docker, Nest.JS, Angular and more.
 
 - 👯 I’m looking to collaborate on any active Projects.
 
@@ -18,7 +18,6 @@ Hi! My name is Josh Leubecher-Robinson. Thank You for taking the time to view my
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'/>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'/>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'>
