@@ -6,9 +6,9 @@ Hi! My name is Josh Leubecher-Robinson. Thank You for taking the time to view my
 
 ## About Me
 
-- 🔭 I’m currently working on a private Status Page, built using Angular and Nest.JS, with Docker as a deployment method.
+- 🔭 I’m currently working on a private Pastebin, built using Next.js and Nest.JS, with Docker as a deployment method.
 
-- 🌱 I’m currently learning Docker, Nest.JS, GraphQL and more.
+- 🌱 I’m currently learning Next.JS, React, GraphQL and more.
 
 - 👯 I’m looking to collaborate on any active Projects.
 
