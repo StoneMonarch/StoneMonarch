@@ -6,7 +6,7 @@ Hi! My name is Josh! Telecom Field Technician by day, role playing a Sysadmin by
 
 ## About Me
 
-- 🔭 I’m currently working on way to many system utilities and for HomeLab automation.
+- 🔭 I’m currently working on way to many system utilities for HomeLab automation.
 
 - 🌱 I’m currently learning GO, GitOps, and Docker Swarm, and more.
 
@@ -25,7 +25,8 @@ Hi! My name is Josh! Telecom Field Technician by day, role playing a Sysadmin by
     <img height ='32px' src ='https://raw.githubusercontent.com/StoneMonarch/StoneMonarch/master/images/logos/xcp-ng.svg'>
     <img height ='32px' src ='https://raw.githubusercontent.com/StoneMonarch/StoneMonarch/master/images/logos/xen-orchestra.svg'>
     <img height ='32px' src ='https://raw.githubusercontent.com/StoneMonarch/StoneMonarch/master/images/logos/gitlab.svg'>
-    <img height ='32px' src ='https://raw.githubusercontent.com/StoneMonarch/StoneMonarch/master/images/logos/bitwarden.svg'>
+
+[//]: # (    <img height ='32px' src ='https://raw.githubusercontent.com/StoneMonarch/StoneMonarch/master/images/logos/bitwarden.svg'>)
 </p>
 
 ## Stats <img width='32px' align='center' src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"/>
